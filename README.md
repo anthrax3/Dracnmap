@@ -6,8 +6,9 @@
 
 Branch status:
 
-- **master**: ![Build Status](https://travis-ci.org/trimstray/Dracnmap.svg?branch=master)
-- **testing**: ![Build Status](https://travis-ci.org/trimstray/Dracnmap.svg?branch=testing)
+|                  MASTER                  |                 TESTING                  |
+| :--------------------------------------: | :--------------------------------------: |
+| [![Build Status](https://travis-ci.org/trimstray/Dracnmap.svg?branch=master)](https://travis-ci.org/trimstray/Dracnmap) | [![Build Status](https://travis-ci.org/trimstray/Dracnmap.svg?branch=testing)](https://travis-ci.org/trimstray/Dracnmap) |
 
 **Dracnmap** is an open source tool which is using to exploit the network and gathering information with **Nmap** help.
 **Nmap** command comes with lots of options that can make the utility more robust and difficult to follow for new users.
