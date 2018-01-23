@@ -1,9 +1,13 @@
 # What is Dracnmap?
 
-[![Version](https://img.shields.io/badge/Dracnmap-3.0.0-brightgreen.svg?maxAge=259200)]()
+[![Version](https://img.shields.io/badge/Dracnmap-3.0.0-green.svg?maxAge=259200)]()
 [![Version](https://img.shields.io/badge/Codename-Blackhawk-red.svg?maxAge=259200)]()
-[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
+
+Branch status:
+
+- **master**: ![Build Status](https://travis-ci.org/trimstray/Dracnmap.svg?branch=master)
+- **testing**: ![Build Status](https://travis-ci.org/trimstray/Dracnmap.svg?branch=testing)
 
 **Dracnmap** is an open source tool which is using to exploit the network and gathering information with **Nmap** help.
 **Nmap** command comes with lots of options that can make the utility more robust and difficult to follow for new users.
